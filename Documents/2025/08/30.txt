@@ -1,0 +1,1 @@
+Postgres and 'Explain Analyze'. I learned that an 'Index Scan' is not always faster than a 'Seq Scan' if the table is small. Postgres is smarter than me.

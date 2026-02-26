@@ -1,0 +1,1 @@
+Started July by trying to use TensorFlow for time-series prediction. I’m trying to predict the stock market (lol). My model says the price will be $0 tomorrow. I think I’m missing some features, or my math is just that bad.

@@ -1,0 +1,1 @@
+Postgres explain analyze. I’m trying to figure out why my query is slow. The output of 'EXPLAIN' is just a bunch of nested loops and 'Seq Scans'. I need an index.

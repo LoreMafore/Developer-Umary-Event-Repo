@@ -1,0 +1,1 @@
+TensorFlow tutorial day 2. i'm trying to classify images of dogs and cats but the model thinks everything is a dog. i think i didn't shuffle the data.

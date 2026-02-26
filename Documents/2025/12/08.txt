@@ -1,0 +1,1 @@
+I’m testing the FFmpeg loop on a similar DVR system. The frame skip is barely visible.

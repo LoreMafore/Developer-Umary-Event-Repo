@@ -1,0 +1,1 @@
+Numpy broadcasting. I finally think I get it. If the dimensions match from the right, it works. Except when it doesn't. I'm still using .reshape(-1, 1) as a lucky charm.

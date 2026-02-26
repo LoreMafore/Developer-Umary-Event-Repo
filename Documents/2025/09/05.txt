@@ -1,0 +1,1 @@
+Numpy and np.broadcast_to. I tried to force two arrays to match. I ended up with a 10GB object in memory and my Linux swap space saved my life. I really need to stop being so aggressive with math.

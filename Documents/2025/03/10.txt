@@ -1,0 +1,1 @@
+TensorFlow overfit city. My training accuracy is 99% but my test accuracy is 40%. The model just memorized the pictures. I need to add more noise or something.

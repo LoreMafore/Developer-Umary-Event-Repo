@@ -1,0 +1,1 @@
+LLVM static analysis. I’m using scan-build on my project. It found a memory leak in code I wrote six months ago. I feel exposed.

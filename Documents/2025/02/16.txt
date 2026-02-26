@@ -1,0 +1,1 @@
+Numpy saving data. i used np.save to keep my arrays for later. it's so much faster than writing to a csv file. why didn't i do this before?

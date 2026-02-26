@@ -1,0 +1,1 @@
+Numpy np.nan. I learned that nan == nan is False. That explains why my filters weren't working for the last three hours. Use np.isnan(), got it.

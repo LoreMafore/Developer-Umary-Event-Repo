@@ -1,0 +1,1 @@
+LLVM and 'Constant Folding'. I’m trying to make the compiler solve 2 + 2 at compile time. It already does that by default. I’m trying to outsmart a system built by geniuses.

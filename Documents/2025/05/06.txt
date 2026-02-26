@@ -1,0 +1,1 @@
+TensorFlow callback functions. I learned how to use EarlyStopping. It’s great because now I don't have to sit and watch my model get worse for 50 epochs.

@@ -1,0 +1,1 @@
+FFmpeg clipping. I learned how to use -ss and -t. I spent the day making "perfectly cut screams" videos. This is what my degree is for.

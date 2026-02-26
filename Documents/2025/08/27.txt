@@ -1,0 +1,1 @@
+Django and 'Middleware'. I wrote a middleware that counts how many times a page is visited. It works, but it also counts my own visits while I'm developing. My stats are fake.

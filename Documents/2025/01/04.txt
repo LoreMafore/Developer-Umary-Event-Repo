@@ -1,0 +1,1 @@
+i tried to use FFmpeg to trim a video of my cat. the command line flags are like a different language. it worked but the output file had no sound and i have no idea why.

@@ -1,0 +1,1 @@
+Postgres views. i made a view to simplify a huge query. it works but it's really slow. i think i need to look into 'materialized views' but that sounds scary.

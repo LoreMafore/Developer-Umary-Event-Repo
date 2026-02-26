@@ -1,0 +1,1 @@
+Tried to start the year strong with Numpy but i spent three hours trying to install it because i messed up my pip paths. i eventually got an array to print but i don't really get the difference between a list and an ndarray yet.

@@ -1,0 +1,1 @@
+Blender and the bmesh module. It’s apparently better than the standard ops module for editing geometry. It feels more like "real" programming, even if I still don't know what a 'normal' vector is.

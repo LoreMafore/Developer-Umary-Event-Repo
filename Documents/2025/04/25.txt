@@ -1,0 +1,1 @@
+Blender particles. I’m trying to make a rain effect with a script. The particles are falling upwards. Gravity is -9.8, not 9.8. Physics is hard.

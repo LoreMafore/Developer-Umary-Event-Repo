@@ -1,0 +1,1 @@
+FFmpeg concatenation. I’m trying to join three videos. Since they have different resolutions, FFmpeg just gives me an error. I have to resize them all first. More work.

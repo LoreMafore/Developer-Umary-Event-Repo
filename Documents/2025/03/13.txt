@@ -1,0 +1,1 @@
+Django Middleware. I tried to write a script that logs every request. It worked, but it logged so much data it filled up my console and crashed my terminal.

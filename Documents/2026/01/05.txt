@@ -1,0 +1,1 @@
+I’m refining the FFmpeg overlay script. It has to look natural.

@@ -1,0 +1,1 @@
+Blender and 'Bmesh'. I’m trying to create a procedural landscape. It’s just a lot of noise functions and vertex displacements. It looks more like crumpled paper than a mountain.

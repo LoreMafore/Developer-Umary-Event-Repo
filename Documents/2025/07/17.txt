@@ -1,0 +1,1 @@
+Redis and 'Lists' for a log. I’m pushing every error to a Redis list. I forgot to trim the list, so it’s currently holding 100,000 errors. I should probably fix the errors instead of just logging them.

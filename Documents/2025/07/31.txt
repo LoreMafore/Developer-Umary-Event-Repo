@@ -1,0 +1,1 @@
+Django and 'Signals' (yes, again). I’m using a signal to update a search index. It’s making the 'Save' button take 3 seconds to respond. I really need to learn how to use Celery.

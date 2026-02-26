@@ -1,0 +1,1 @@
+LLVM and 'Attribute'. I’m trying to mark a function as 'always_inline'. The compiler ignored me. Even the software doesn't listen to me.

@@ -1,0 +1,1 @@
+LLVM and 'Function Pass'. I’m trying to insert a 'printf' call into every function. I keep getting 'Linker Errors' because I’m not linking against the right library.

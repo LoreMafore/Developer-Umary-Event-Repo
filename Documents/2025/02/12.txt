@@ -1,0 +1,1 @@
+TensorFlow data augmentation. i'm flipping and rotating images to get more data. it's making the training take way longer and i'm not sure if it's actually getting smarter.

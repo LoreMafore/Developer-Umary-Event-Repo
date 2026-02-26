@@ -1,0 +1,1 @@
+Numpy and np.polyfit. I’m trying to draw a line of best fit through some scattered data. The line is a curve. I think I set the degree to 5 by accident. Everything is a curve if you try hard enough.

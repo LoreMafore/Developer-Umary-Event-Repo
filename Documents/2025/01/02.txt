@@ -1,0 +1,1 @@
+messed with requests today to try and get data from a public api. i kept getting a 404 error and realized i was typing the url wrong for like an hour. i feel so dumb sometimes.

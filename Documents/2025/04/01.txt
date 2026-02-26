@@ -1,0 +1,1 @@
+April Fools. I wrote a Numpy script that just prints '42' for every calculation. I thought it was funny but I forgot to change it back and spent an hour debugging my "broken" math.

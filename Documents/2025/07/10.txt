@@ -1,0 +1,1 @@
+TensorFlow and image resizing. I’m using tf.image.resize. I didn't realize it changes the pixel values to floats between 0 and 1. My model was expecting 0-255. No wonder the loss was 'NaN'.

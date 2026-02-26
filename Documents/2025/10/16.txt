@@ -1,0 +1,1 @@
+TensorFlow and 'Custom Training'. I’m using tf.GradientTape. I forgot to watch the variables, so my gradients were all 'None'. I was training a model that wasn't learning anything.

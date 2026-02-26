@@ -1,0 +1,1 @@
+Blender and 'Drivers'. I’m trying to make the color of a light change based on an object's position. I’m writing Python expressions inside the Blender UI. It’s like a secret language.

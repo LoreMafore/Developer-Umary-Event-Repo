@@ -1,0 +1,1 @@
+TensorFlow and 'Transfer Learning'. I’m using MobileNetV2 as a base. It’s so much better than the models I build from scratch. I’m just a 'script kitty' for AI at this point.

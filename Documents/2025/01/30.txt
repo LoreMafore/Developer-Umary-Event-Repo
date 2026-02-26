@@ -1,0 +1,1 @@
+requests and json. i tried to parse a response and got a 'JSONDecodeError'. the api was returning an error page in html instead of json. i need to check status codes first.

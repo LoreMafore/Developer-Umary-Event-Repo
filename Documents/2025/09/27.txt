@@ -1,0 +1,1 @@
+FFmpeg and 'NVENC'. I’m using my GPU to encode. It’s fast, but the file size is way bigger than the CPU version. Quality, speed, size—choose two.

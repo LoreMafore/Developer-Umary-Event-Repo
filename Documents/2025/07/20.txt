@@ -1,0 +1,1 @@
+Blender and 'Batch Rendering'. I wrote a bash script to render ten different files overnight. I woke up and found out the first one crashed and the other nine never started.

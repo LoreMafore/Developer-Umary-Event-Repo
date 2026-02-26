@@ -1,0 +1,1 @@
+Redis and 'TTL'. I’m using Redis for a rate limiter. I accidentally set the TTL (Time To Live) to 0, which apparently means "forever" or "deleted immediately" depending on the command. I locked myself out.

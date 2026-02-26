@@ -1,0 +1,1 @@
+LLVM and 'clang-format'. I finally set up an auto-formatter. It changed every single line of my code. It looks better, but now my 'git diff' is a nightmare.

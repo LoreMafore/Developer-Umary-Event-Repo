@@ -1,0 +1,1 @@
+FFmpeg audio normalization. I’m trying to make all my mp3s the same volume. I used a filter called loudnorm. It takes forever because it has to pass through the file twice.

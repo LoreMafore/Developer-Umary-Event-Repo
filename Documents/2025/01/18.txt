@@ -1,0 +1,1 @@
+LLVM IR is so weird. it looks like assembly but isn't? i tried to change a constant in a hello world program and it segfaulted. i'm so bad at this.

@@ -1,0 +1,1 @@
+Redis and 'Hashes' for user profiles. It’s so much more organized than using strings. I’m using HGETALL to get the whole profile at once. I feel like a data architect.

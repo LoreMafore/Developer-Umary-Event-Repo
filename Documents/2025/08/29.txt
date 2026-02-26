@@ -1,0 +1,1 @@
+requests and 'History'. I learned that you can see all the redirects a request went through. I found out one site was redirecting me through three different tracking pixels. Rude.

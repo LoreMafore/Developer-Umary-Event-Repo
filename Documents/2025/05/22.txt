@@ -1,0 +1,1 @@
+Redis expiration. I set a key to expire in 10 seconds but checked it at 11 seconds. It was gone. Science works!

@@ -1,0 +1,1 @@
+LLVM pass manager. I'm trying to run a simple constant folding pass. It’s hard to tell if it’s actually doing anything since my code is already pretty simple.

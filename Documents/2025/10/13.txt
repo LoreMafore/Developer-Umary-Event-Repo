@@ -1,0 +1,1 @@
+Postgres and 'Indices'. I learned that an index on a boolean column (True/False) is usually useless. The database just scans the whole thing anyway. I feel slightly smarter.

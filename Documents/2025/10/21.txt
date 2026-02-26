@@ -1,0 +1,1 @@
+requests and 'Cookies'. I’m trying to bypass a login by copying my browser cookies. It worked, but I feel like a hacker (the bad kind).

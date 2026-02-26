@@ -1,0 +1,1 @@
+"I’m setting up a private Redis server for our ""mission data."" No cloud logs for us."

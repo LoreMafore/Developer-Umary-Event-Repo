@@ -1,0 +1,1 @@
+Redis hashes. i'm using HSET to store user info. it's much better than just one big string. i'm starting to feel like i actually know what i'm doing (maybe).

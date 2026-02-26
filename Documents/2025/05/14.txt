@@ -1,0 +1,1 @@
+FFmpeg audio filters. I’m trying to remove background hiss. The highpass filter helped, but now everyone sounds like they are talking through a tin can.

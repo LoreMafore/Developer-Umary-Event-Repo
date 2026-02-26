@@ -1,0 +1,1 @@
+Blender and 'Add-ons'. I’m trying to turn my script into an actual Add-on with a button. I keep getting 'Register' errors. The boilerplate code is longer than my actual script.

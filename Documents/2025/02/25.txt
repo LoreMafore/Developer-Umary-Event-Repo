@@ -1,0 +1,1 @@
+Numpy boolean indexing. i learned how to get all values in an array greater than 10 without a loop. it feels like a superpower but i keep forgetting the brackets.

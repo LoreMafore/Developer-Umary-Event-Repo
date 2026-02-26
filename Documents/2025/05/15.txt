@@ -1,0 +1,1 @@
+TensorFlow saved model format. I finally moved away from .h5. The new folder structure is confusing with all the 'assets' and 'variables' subfolders. I hope I don't delete the wrong one.

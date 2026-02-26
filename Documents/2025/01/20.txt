@@ -1,0 +1,1 @@
+Numpy is faster than loops i guess. i timed it and it's way better. i still struggle with the syntax for slicing though. why is it [:, 1]?

@@ -1,0 +1,1 @@
+LLVM and Clang. I learned how to generate an LLVM IR file from a C file. It’s thousands of lines of code for a simple 'printf'. Compilers are scary.

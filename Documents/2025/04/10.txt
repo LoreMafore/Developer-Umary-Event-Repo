@@ -1,0 +1,1 @@
+Numpy vectorization. I replaced a triple-nested loop with one line of Numpy. It's 100x faster. I feel like a wizard, but a wizard who doesn't know how his wand works.

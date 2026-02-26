@@ -1,0 +1,1 @@
+end of the month. worked on Postgres backups. i used pg_dump but i don't know where the file went. i really need to get better at using the linux terminal.

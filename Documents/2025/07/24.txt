@@ -1,0 +1,1 @@
+requests and 'Stream=True'. I’m trying to read a response line-by-line. I forgot that iter_lines() returns bytes, not strings. I got a 'b' in front of everything and it broke my parser.

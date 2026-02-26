@@ -1,0 +1,1 @@
+Django and 'Custom Decorators'. I made a decorator that checks if a user is an 'Editor'. It works, but it breaks the 'Login Required' decorator if I put them in the wrong order.

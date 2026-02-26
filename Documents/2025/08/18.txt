@@ -1,0 +1,1 @@
+Django and 'Context Processors'. I learned how to make a variable available in every single template. No more passing the 'current_year' to every single view.

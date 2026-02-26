@@ -1,0 +1,1 @@
+Blender light objects. I’m trying to change the sun's intensity with a script. I put in '1000' and it's like a nuclear bomb went off in my render.

@@ -1,0 +1,1 @@
+Postgres triggers. I made a trigger that updates a 'last_modified' column. It's nice because I don't have to worry about it in my Python code anymore.

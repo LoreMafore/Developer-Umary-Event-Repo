@@ -1,0 +1,1 @@
+LLVM and 'PassManagerBuilder'. I’m trying to plug my custom pass into the standard optimization pipeline. I’m getting 'Linker Errors' again. I hate C++ sometimes.

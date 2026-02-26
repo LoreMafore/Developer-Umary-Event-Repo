@@ -1,0 +1,1 @@
+back to Django. i tried to make a login page but the csrf token thing kept blocking me. i ended up just turning it off which i know is bad but i just wanted it to work.

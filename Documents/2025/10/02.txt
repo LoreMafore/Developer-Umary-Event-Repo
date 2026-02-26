@@ -1,0 +1,1 @@
+Numpy and np.meshgrid. I’m trying to create a 3D plot. I got the X and Y coordinates swapped and my mountain looks like a very long, thin wall.

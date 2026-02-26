@@ -1,0 +1,1 @@
+requests and 'Session'. I learned that if you don't close your sessions, you can leak memory. My long-running script finally stopped crashing after 4 hours.

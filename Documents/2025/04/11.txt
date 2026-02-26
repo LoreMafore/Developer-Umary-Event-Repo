@@ -1,0 +1,1 @@
+requests proxy settings. I’m trying to route my traffic through a proxy. It keeps timing out. I think the proxy is dead, or I’m just bad at networking.

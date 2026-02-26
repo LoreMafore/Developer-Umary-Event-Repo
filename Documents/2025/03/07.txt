@@ -1,0 +1,1 @@
+Postgres transactions. I learned about BEGIN and ROLLBACK. It saved me today when I almost updated every user's email to 'test@test.com' by mistake.

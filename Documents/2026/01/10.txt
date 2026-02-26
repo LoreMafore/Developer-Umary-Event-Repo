@@ -1,0 +1,1 @@
+"I’m making a ""panic button"" for my phone that wipes all my code in 1 second."

@@ -1,0 +1,1 @@
+Postgres schemas. I moved my tables into a 'private' schema. Now my Django app can't find them. I need to update the search path.

@@ -1,0 +1,1 @@
+Django many-to-many fields. I’m making a tagging system. Adding tags is easy, but removing them is giving me a 'Through model' error. I don't know what a 'through' is.

@@ -1,0 +1,1 @@
+Redis and 'In-Memory' speed. I moved my session storage to Redis. The site feels faster, but I accidentally wiped the Redis cache and logged everyone out, including myself. Oops.

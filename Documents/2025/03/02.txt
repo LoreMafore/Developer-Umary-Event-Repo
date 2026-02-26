@@ -1,0 +1,1 @@
+Blender python again. I tried to automate a camera path. I accidentally set the focal length to 0 and the whole viewport turned black. I thought I broke my GPU for a second.

@@ -1,0 +1,1 @@
+Redis is actually kind of fun. i used it to store some session data for a toy project. i still don't know how to make the data stay there after i restart the server.

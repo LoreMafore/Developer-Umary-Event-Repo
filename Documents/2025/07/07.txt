@@ -1,0 +1,1 @@
+Postgres and DISTINCT ON. I learned that Postgres has a special way to get the first row of each group. It’s way easier than the weird subqueries I was trying to write in Django's ORM.

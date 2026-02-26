@@ -1,0 +1,1 @@
+LLVM tutorials. i'm reading about the kaleidscope language. it's way over my head but the idea of making a language is cool. i can't even make a calculator yet though.

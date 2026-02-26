@@ -1,0 +1,1 @@
+FFmpeg thumbnails. I’m writing a script to generate a preview image every 10 seconds of a video. It works, but it’s creating thousands of images and I ran out of inodes on my Linux partition.

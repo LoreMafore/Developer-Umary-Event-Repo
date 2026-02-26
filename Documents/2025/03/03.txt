@@ -1,0 +1,1 @@
+LLVM is still a nightmare. I’m trying to understand how the Abstract Syntax Tree (AST) works. I drew a diagram on my wall but I still can’t figure out how to traverse it in C++.

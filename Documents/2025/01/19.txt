@@ -1,0 +1,1 @@
+Django models are cool. i made a 'Post' model but then i realized i forgot the author field. i'm scared to run migrations again because i don't want to break the database.

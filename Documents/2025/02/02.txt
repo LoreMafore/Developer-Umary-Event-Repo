@@ -1,0 +1,1 @@
+FFmpeg filter chains. i'm trying to stack two videos side by side. the syntax is a nightmare with all the semicolons and colons. i keep getting 'invalid argument'.

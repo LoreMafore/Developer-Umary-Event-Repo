@@ -1,0 +1,1 @@
+Blender scripting. i made a script that creates a hundred monkeys. it crashed blender because i didn't use a generator or something. lesson learned.

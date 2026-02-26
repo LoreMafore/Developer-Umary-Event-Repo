@@ -1,0 +1,1 @@
+Django custom managers. I’m trying to make a published() method for my posts. It’s nice to have clean code, but I spent 4 hours on a feature that takes 2 seconds to write.

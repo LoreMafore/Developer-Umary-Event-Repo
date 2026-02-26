@@ -1,0 +1,1 @@
+I used FFmpeg to test how much I can compress security footage without it looking fake.

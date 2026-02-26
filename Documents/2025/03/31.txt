@@ -1,0 +1,1 @@
+Django signals part 2. I finally fixed that infinite loop from last month. I had to use a dispatch_uid to stop the signal from registering twice. I still don't fully get it.

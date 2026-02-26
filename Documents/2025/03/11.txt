@@ -1,0 +1,1 @@
+Blender mesh editing. I’m trying to extrude faces using a script. It works but it creates "non-manifold geometry" which apparently is a fancy way of saying I made a 3D mess.

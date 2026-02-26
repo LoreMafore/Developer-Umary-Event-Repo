@@ -1,0 +1,1 @@
+Numpy and np.tile. I’m trying to repeat an array to match a larger size. I got the axes wrong and ended up with a 1GB array instead of a 1MB one. My Linux kernel killed the process.

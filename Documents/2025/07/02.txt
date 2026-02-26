@@ -1,0 +1,1 @@
+Blender physics scripting. I’m trying to make a bowl of fruit fall onto a table. The fruit keeps passing through the table. I forgot to turn on 'Collision' for the table. Physics doesn't exist unless you tell Blender it does.

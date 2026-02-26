@@ -1,0 +1,26 @@
+{
+  "app_name": "MyWebApp",
+  "version": "0.1.0",
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "myapp_db",
+    "user": "admin"
+    // TODO: add password field - how to handle secrets?
+  },
+  "server": {
+    "port": 8000,
+    "host": "0.0.0.0",
+    "debug": true,
+    "workers": 
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "/var/log/myapp.log"
+  },
+  "features": {
+    "enable_caching": true,
+    "enable_auth": true,
+    "enable_notifications": 
+  }
+  // Missing closing bracket? Validator keeps complaining

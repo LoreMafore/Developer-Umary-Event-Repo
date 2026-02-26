@@ -1,0 +1,1 @@
+Redis and 'HyperLogLog'. I learned you can count unique items with almost zero memory. It’s not 100% accurate, but for a junior dev, 'close enough' is my middle name.

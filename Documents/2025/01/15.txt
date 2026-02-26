@@ -1,0 +1,1 @@
+FFmpeg is making me cry. i tried to convert a .mov to .mp4 and the quality came out looking like a potato. i think i messed up the bitrate flag.

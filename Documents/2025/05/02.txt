@@ -1,0 +1,1 @@
+Numpy where function is a lifesaver. I used it to replace all negative numbers in my dataset with zero. It’s so much cleaner than the nested if statements I was using yesterday.

@@ -1,0 +1,1 @@
+Blender object selection. I’m trying to select all objects with 'Cube' in their name. My script keeps selecting the camera too because I named it 'CubeCamera'. I'm a genius.

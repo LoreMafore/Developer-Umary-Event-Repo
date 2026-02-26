@@ -1,0 +1,1 @@
+Redis transactions. I tried to use WATCH to prevent race conditions. It’s complicated to test by myself. I’m just clicking the button really fast.

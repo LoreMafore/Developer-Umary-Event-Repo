@@ -1,0 +1,1 @@
+requests and 'Timeout'. I set a timeout for 5 seconds. The site took 5.1 seconds. My script failed. I should probably be more generous with my timing.

@@ -1,0 +1,1 @@
+Blender modifiers. I'm trying to apply a 'Subdivision Surface' via script. I accidentally applied it 5 times and Blender crashed because the polygon count went to a billion.

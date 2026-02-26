@@ -1,0 +1,1 @@
+Postgres and 'UPSERT'. I learned how to use ON CONFLICT DO UPDATE. It’s so much better than checking if a record exists before inserting it.

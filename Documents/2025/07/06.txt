@@ -1,0 +1,1 @@
+requests and authentication. I’m trying to use Basic Auth. I forgot that the password needs to be a string, not an integer. I spent an hour debugging a 'TypeError' that had nothing to do with the network.

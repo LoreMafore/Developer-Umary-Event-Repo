@@ -1,0 +1,1 @@
+Django admin. i learned how to register my models so they show up in the admin panel. it's like magic, but i don't like magic because i don't know how it works.

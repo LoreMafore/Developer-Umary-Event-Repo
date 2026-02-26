@@ -1,0 +1,1 @@
+Blender rendering. I’m trying to render from the command line on my Raspberry Pi. It’s taking 40 minutes per frame. I think I’ll be finished with this 1-second animation by next year.

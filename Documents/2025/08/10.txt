@@ -1,0 +1,1 @@
+Numpy and np.reshape. I tried to reshape a (100,) array into a (10, 11) array. Obviously, the numbers don't add up. I need to learn basic multiplication before I call myself a dev.

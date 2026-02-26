@@ -1,0 +1,1 @@
+TensorFlow hub. I downloaded a pre-trained model so I don't have to train from scratch. It works way better than mine, which is a bit depressing.

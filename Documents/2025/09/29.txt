@@ -1,0 +1,1 @@
+Blender and 'Modifiers'. I’m trying to apply a 'Boolean' modifier via script. It works, but only if the objects are overlapping. If they aren't, it just does nothing and gives no error. Typical Blender.

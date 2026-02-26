@@ -1,0 +1,1 @@
+Blender and 'Armatures'. I’m trying to rotate a bone using Python. I’m getting confused between 'PoseBone' and 'Bone'. One is the default, and one is the current state. Why is it so complicated?

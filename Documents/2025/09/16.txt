@@ -1,0 +1,1 @@
+Postgres and 'Check Constraints'. I added a rule that says prices can't be negative. I then spent 20 minutes wondering why my "sale" script (which subtracted $10) was failing on a $5 item.

@@ -1,0 +1,1 @@
+requests sessions. i learned that if i use a Session object, it keeps cookies for me. this makes scraping a lot easier because i don't have to keep logging in.

@@ -1,0 +1,1 @@
+Checked the DVR model again. It's an old Hikvision. Vulnerable to a CGI script.

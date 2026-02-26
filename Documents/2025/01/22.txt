@@ -1,0 +1,1 @@
+Postgres indexing. i tried to make a query faster by adding an index but i don't think it did anything. maybe the table is too small to notice.

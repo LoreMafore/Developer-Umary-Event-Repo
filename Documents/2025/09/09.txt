@@ -1,0 +1,1 @@
+FFmpeg and 'CRF'. I learned that Constant Rate Factor is better than setting a fixed bitrate. My videos finally look good without being 1GB each. Progress!

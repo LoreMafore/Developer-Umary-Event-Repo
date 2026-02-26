@@ -1,0 +1,1 @@
+requests and SSL errors. My local dev cert isn't trusted so the script keeps failing. I used verify=False which I know is a huge security hole but I just need to see the data.

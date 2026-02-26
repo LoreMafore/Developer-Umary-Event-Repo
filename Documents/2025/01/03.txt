@@ -1,0 +1,1 @@
+worked on a Django tutorial. the migrations thing is so confusing. i kept running makemigrations but nothing was happening because i forgot to add my app to the settings file.

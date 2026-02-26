@@ -1,0 +1,1 @@
+Numpy linalg. tried to solve a system of equations. it gave me an error saying the matrix is singular. i think that means i have no solution or something. math is hard.

@@ -1,0 +1,1 @@
+requests and session persistence. I’m trying to scrape a site that requires login. The session cookie is working, but I keep getting logged out after 5 minutes.

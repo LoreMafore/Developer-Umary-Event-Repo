@@ -1,0 +1,1 @@
+TensorFlow data pipelines. I’m using tf.data.Dataset. It’s way faster than passing a list, but the syntax for map() and batch() is making my head spin.

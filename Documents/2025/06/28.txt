@@ -1,0 +1,1 @@
+FFmpeg overlaying text. I’m trying to make a meme generator. The text wrapping is impossible. I’m just going to make the font really small.

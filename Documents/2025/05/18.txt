@@ -1,0 +1,1 @@
+Django and environment variables. I finally stopped putting my secret key in the settings.py. I’m using an .env file now like a grown-up developer.

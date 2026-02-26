@@ -1,0 +1,1 @@
+Using Numpy to estimate the weight of the cross based on photos. Need the fake to be perfect.

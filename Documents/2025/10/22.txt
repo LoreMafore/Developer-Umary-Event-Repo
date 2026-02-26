@@ -1,0 +1,1 @@
+Postgres and 'Enums'. I’m using an Enum for 'Order Status'. It’s nice, but adding a new status requires an 'ALTER TYPE' command which is a bit of a pain.

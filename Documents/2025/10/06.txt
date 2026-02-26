@@ -1,0 +1,1 @@
+FFmpeg and 'Librosa' (via Python). I’m trying to sync video to the beat of music. I’m getting the timestamps wrong and everything is slightly off-beat. It’s like a bad kung-fu movie.

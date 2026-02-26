@@ -1,0 +1,1 @@
+Postgres and 'Foreign Keys'. I tried to delete a user but it wouldn't let me because they have 'Orders'. I had to learn about ON DELETE CASCADE. Now I can delete users and all their stuff at once. Scary.

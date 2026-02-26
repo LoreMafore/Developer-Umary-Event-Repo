@@ -1,0 +1,1 @@
+TensorFlow and 'Overfitting'. I’m using 'EarlyStopping'. It stopped after 2 epochs. I think my learning rate is way too high.

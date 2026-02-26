@@ -1,0 +1,1 @@
+FFmpeg and 'Audio Volume'. I’m trying to boost the volume of a quiet video. I used volume=2.0 but now the audio is 'clipping' and sounds like static.

@@ -1,0 +1,1 @@
+Postgres is hard. i tried to create a user and give it permissions but i kept getting 'ident authentication failed'. i think i edited the pg_hba.conf file wrong and now i can't even log in as root.

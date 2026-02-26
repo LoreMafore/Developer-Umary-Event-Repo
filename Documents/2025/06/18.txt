@@ -1,0 +1,1 @@
+Redis sorted sets for rate limiting. I’m trying to stop people from hitting my API too fast. I’m basically building a bouncer for my code.

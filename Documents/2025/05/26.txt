@@ -1,0 +1,1 @@
+LLVM optimization. I learned about "dead code elimination." I realized half of the functions I wrote don't actually do anything. The compiler is judging me.

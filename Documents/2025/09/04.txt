@@ -1,0 +1,1 @@
+Django signals. I’m trying to auto-generate a slug when a post title is saved. It works, but if I change the title, the old URL breaks. I need to learn about 'Redirects' or just leave the slug alone.

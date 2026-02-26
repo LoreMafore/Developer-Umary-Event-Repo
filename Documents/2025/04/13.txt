@@ -1,0 +1,1 @@
+Redis bitmaps. I learned you can store bits to track user activity. It’s super memory efficient but it’s hard to wrap my head around turning a user ID into a bit offset.

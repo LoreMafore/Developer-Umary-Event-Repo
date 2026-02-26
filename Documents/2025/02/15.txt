@@ -1,0 +1,1 @@
+Django signals. i tried to make it so a 'Profile' is created when a 'User' is created. it worked once then started giving me a recursion error. i think i made an infinite loop.

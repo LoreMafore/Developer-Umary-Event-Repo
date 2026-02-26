@@ -1,0 +1,1 @@
+Started May by trying to connect Django to Redis for caching. I spent two hours wondering why my data wasn't updating before realizing I was reading from the cache instead of the database. I am my own worst enemy.

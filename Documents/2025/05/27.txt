@@ -1,0 +1,1 @@
+Django rest framework serializers. I tried to do a nested serializer. It works for reading data, but saving data is a nightmare. I’m just going to write a custom create() method.

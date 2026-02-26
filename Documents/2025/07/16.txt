@@ -1,0 +1,1 @@
+Postgres and 'Partial Indexes'. I made an index that only covers 'active' users. It’s smaller and faster. I feel like I'm finally starting to understand how to optimize things.

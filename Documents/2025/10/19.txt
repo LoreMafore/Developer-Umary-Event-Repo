@@ -1,0 +1,1 @@
+Django and 'Static Files'. I spent three hours wondering why my CSS wasn't updating. I forgot to run collectstatic. I hate web dev sometimes.

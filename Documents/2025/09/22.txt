@@ -1,0 +1,1 @@
+Django and 'Logging'. I finally stopped using print() for debugging and started using the actual logger. It feels more professional, but searching through a log file is harder than just looking at the console.

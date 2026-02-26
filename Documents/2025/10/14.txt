@@ -1,0 +1,1 @@
+Redis and 'Sorted Sets'. I’m making a leaderboard. I learned that ZRANK starts at 0. I told my friend he was #0 and he got offended.

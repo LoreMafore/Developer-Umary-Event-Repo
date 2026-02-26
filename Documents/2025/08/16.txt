@@ -1,0 +1,1 @@
+Blender and 'Cycles Render'. I tried to render a scene with 1000 samples. My Linux laptop got so hot I had to put it on a bag of frozen peas.

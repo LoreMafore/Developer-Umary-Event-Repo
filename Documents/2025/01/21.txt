@@ -1,0 +1,1 @@
+requests timeout issues. my script kept waiting forever when the site didn't respond. i learned about the timeout parameter today. simple but important i guess.

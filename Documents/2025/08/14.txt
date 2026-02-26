@@ -1,0 +1,1 @@
+FFmpeg and 'Hardware Acceleration'. I finally got my NVIDIA GPU to work with FFmpeg. I’m encoding videos at 300fps. I feel like I have infinite power.

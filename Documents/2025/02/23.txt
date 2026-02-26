@@ -1,0 +1,1 @@
+LLVM optimization levels. i tried -O3 on a small program and it literally deleted my whole loop because it didn't do anything. compilers are too smart for me.

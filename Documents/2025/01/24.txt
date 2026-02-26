@@ -1,0 +1,1 @@
+FFmpeg again. i learned how to add subtitles to a video. i had to re-encode the whole thing though which took an hour. there must be a faster way.

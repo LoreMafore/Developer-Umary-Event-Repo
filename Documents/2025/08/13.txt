@@ -1,0 +1,1 @@
+Redis and 'Sorted Sets'. I’m using it for a 'Trending Topics' list. Every time a word is used, I increment its score with ZINCRBY. It’s actually working!

@@ -1,0 +1,1 @@
+TensorFlow validation split. I forgot to set a validation split, so I have no idea if my model is actually learning or just hallucinating.

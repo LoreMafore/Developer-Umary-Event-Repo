@@ -1,0 +1,1 @@
+Redis scan. I learned that KEYS * is bad for production because it freezes the server. I used SCAN instead. I don't have a production server, but it makes me feel like I have one.

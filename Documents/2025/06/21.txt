@@ -1,0 +1,1 @@
+Blender modifiers via Python. I’m trying to add a 'Wireframe' modifier. It works, but my computer is lagging because the mesh is too complex.

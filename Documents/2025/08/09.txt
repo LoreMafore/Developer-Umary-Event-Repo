@@ -1,0 +1,1 @@
+Django and 'REST Framework' Serializers. I’m trying to make a 'SlugField'. I keep getting errors because I forgot to update the get_absolute_url method in my model.

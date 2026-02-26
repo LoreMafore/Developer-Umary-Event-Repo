@@ -1,0 +1,1 @@
+Django rest framework. I’m trying to build an API. Serializers are confusing. Why do I have to define the fields twice?

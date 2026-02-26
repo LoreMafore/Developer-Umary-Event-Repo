@@ -1,0 +1,1 @@
+Blender python scripting is cool but the documentation is a maze. i tried to move a cube with a script and it flew off into infinite space because i didn't understand the coordinate system.

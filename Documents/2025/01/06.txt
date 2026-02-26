@@ -1,0 +1,1 @@
+messed with Redis for the first time. it's just keys and values? i tried to store a dictionary but it only takes strings or something. i need to read the docs more instead of just guessing.

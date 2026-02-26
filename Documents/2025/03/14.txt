@@ -1,0 +1,1 @@
+Numpy masked arrays. I have some data with missing values. I tried to use -999 as a placeholder but it messed up my average. Masking is way better.

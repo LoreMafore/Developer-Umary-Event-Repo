@@ -1,0 +1,52 @@
+{
+  "test_suite": "API Integration Tests",
+  "version": "0.1.0",
+  "tests": [
+    {
+      "name": "test_get_users",
+      "endpoint": "/api/users",
+      "method": "GET",
+      "expected_status": 200,
+      "expected_response": {
+        "type": "array"
+        // TODO: add more specific assertions
+      }
+    },
+    {
+      "name": "test_create_user",
+      "endpoint": "/api/users",
+      "method": "POST",
+      "request_body": {
+        "name": "Test User",
+        "email": "test@example.com"
+      },
+      "expected_status": 201
+    },
+    {
+      "name": "test_get_user_by_id",
+      "endpoint": "/api/users/1",
+      "method": "GET",
+      "expected_status": 
+      // Missing status code
+    },
+    {
+      "name": "test_invalid_user",
+      "endpoint": "/api/users/9999",
+      "method": "GET",
+      "expected_status": 404,
+      "expected_response": {
+        "error": "User not found"
+      }
+    }
+  ],
+  "setup": {
+    "database": "test.db",
+    "seed_data": true
+  },
+  "teardown": {
+    "cleanup": true
+  }
+  // TODO: add test for update endpoint
+  // TODO: add test for delete endpoint
+  // TODO: add authentication tests
+}

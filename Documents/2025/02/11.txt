@@ -1,0 +1,1 @@
+FFmpeg hardware acceleration. i tried to use my gpu to speed up encoding but linux drivers are a pain. i ended up just using the cpu and letting it run overnight.

@@ -1,0 +1,1 @@
+Redis and 'Pub/Sub'. I’m trying to make a live notification system. I can't figure out how to keep the connection open in the browser without it timing out after 60 seconds.

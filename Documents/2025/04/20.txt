@@ -1,0 +1,1 @@
+requests and cookies. I’m trying to maintain a session. I found out that if I don’t save the cookies, the server forgets who I am immediately. Just like my ex.

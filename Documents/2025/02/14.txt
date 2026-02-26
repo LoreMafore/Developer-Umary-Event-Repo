@@ -1,0 +1,1 @@
+LLVM bitcode. i figured out how to emit bitcode from clang. it's just a bunch of unreadable stuff but it feels like i'm doing real 'low level' work for once.

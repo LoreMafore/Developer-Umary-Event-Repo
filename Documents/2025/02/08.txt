@@ -1,0 +1,1 @@
+requests auth. i spent all day trying to login to an api with oauth2. i'm so confused by the tokens and secrets. i think i accidentally pushed my api key to github. oops.

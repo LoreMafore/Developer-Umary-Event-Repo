@@ -1,0 +1,1 @@
+LLVM and 'Clang' flags. I learned about -emit-llvm -S. Now I can see the IR directly in my terminal. It’s beautiful and terrifying at the same time.

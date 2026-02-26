@@ -1,0 +1,1 @@
+FFmpeg and 'Complex Filters'. I’m trying to put a blur effect on just the top half of a video. The syntax involves so many square brackets it looks like I'm writing Lisp.

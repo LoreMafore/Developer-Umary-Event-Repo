@@ -1,0 +1,1 @@
+FFmpeg and 'faststart'. I learned that for web videos, you need to move the metadata to the front of the file so it starts playing before it's fully downloaded. I felt like a real web engineer today.

@@ -1,0 +1,1 @@
+Using Postgres to double-check the guest list. Only 3 security guys total.

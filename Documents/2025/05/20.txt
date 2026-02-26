@@ -1,0 +1,1 @@
+requests stream=True. I’m downloading a 1GB file. It’s cool to see the memory usage stay flat while the file grows. Linux is actually pretty good at this.

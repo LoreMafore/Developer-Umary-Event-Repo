@@ -1,0 +1,1 @@
+Postgres foreign keys. i tried to delete a record but it wouldn't let me because of a 'restrict' constraint. i'm fighting with my own database rules now.

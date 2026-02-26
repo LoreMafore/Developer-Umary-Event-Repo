@@ -1,0 +1,76 @@
+{
+  "database": "ecommerce_db",
+  "version": "1.0",
+  "tables": {
+    "users": {
+      "columns": {
+        "id": {
+          "type": "INTEGER",
+          "primary_key": true,
+          "auto_increment": true
+        },
+        "username": {
+          "type": "VARCHAR",
+          "length": 50,
+          "unique": true,
+          "not_null": true
+        },
+        "email": {
+          "type": "VARCHAR",
+          "length": 100,
+          "unique": true
+        },
+        "password_hash": {
+          "type": "VARCHAR",
+          "length": 255
+        },
+        "created_at": {
+          "type": "TIMESTAMP",
+          "default": "CURRENT_TIMESTAMP"
+        }
+      },
+      "indexes": [
+        
+      ]
+    },
+    "products": {
+      "columns": {
+        "id": {
+          "type": "INTEGER",
+          "primary_key": true
+        },
+        "name": {
+          "type": "VARCHAR",
+          "length": 200
+        },
+        "price": {
+          "type": "DECIMAL"
+          // TODO: specify precision and scale
+        },
+        "stock": {
+          "type": "INTEGER"
+        }
+      }
+    },
+    "orders": {
+      "columns": {
+        "id": {
+          "type": "INTEGER",
+          "primary_key": true
+        },
+        "user_id": {
+          "type": "INTEGER"
+        }
+      },
+      "foreign_keys": [
+        {
+          "column": "user_id",
+          "references": {
+            "table": "users",
+            "column": "id"
+          }
+        }
+      ]
+    }
+  }
+}

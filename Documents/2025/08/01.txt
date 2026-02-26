@@ -1,0 +1,1 @@
+Started August by trying to use Numpy for some basic statistics. I forgot that np.std() uses population standard deviation by default, while my textbook uses sample standard deviation. My homework was all wrong.

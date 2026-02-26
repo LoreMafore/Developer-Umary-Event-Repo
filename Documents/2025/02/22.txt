@@ -1,0 +1,1 @@
+Blender animation. i'm trying to animate a cube moving in a circle with python. it's mostly just sines and cosines but i'm bad at math so the circle looks like an egg.

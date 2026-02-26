@@ -1,0 +1,1 @@
+Using Blender to simulate the lighting during the gala. Need to know the shadows.

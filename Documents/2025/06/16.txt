@@ -1,0 +1,1 @@
+requests and redirects. I’m trying to follow a link that redirects five times. allow_redirects=True is the default, but it’s still failing. I think it’s a cookie issue.

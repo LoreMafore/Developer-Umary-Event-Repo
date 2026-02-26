@@ -1,0 +1,1 @@
+requests and JSON. I learned that .json() is a method, not a property. I spent way too long wondering why I couldn't subscript a 'method' object.

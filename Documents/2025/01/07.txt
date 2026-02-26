@@ -1,0 +1,1 @@
+TensorFlow is way too big for my brain. i tried to follow a 'hello world' for neural networks and my computer froze. i think i'm supposed to use a virtualenv for this but i just installed it globally like a noob.

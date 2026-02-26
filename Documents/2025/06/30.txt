@@ -1,0 +1,1 @@
+Blender Python console. I found out you can test commands in the built-in console before putting them in a script. This would have saved me weeks of work.

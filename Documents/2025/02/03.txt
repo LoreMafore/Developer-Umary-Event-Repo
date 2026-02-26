@@ -1,0 +1,1 @@
+TensorFlow weights. i tried to save my model but the file is like 500mb. is it supposed to be that big? i think i'm saving the whole optimizer state too.

@@ -1,0 +1,1 @@
+Numpy linspace and arange. I always get them mixed up. One is for the number of steps and the other is for the step size. I plotted a sine wave but it looked like a triangle.

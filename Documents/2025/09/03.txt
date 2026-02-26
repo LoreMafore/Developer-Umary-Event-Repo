@@ -1,0 +1,1 @@
+LLVM and 'Dead Store Elimination'. I spent all morning writing a complex function, and the compiler just deleted the whole thing because I wasn't using the return value. I feel disrespected by my own tools.

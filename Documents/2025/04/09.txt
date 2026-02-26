@@ -1,0 +1,1 @@
+Django custom user model. Everyone says you should do this at the start. I’m doing it halfway through the project and it’s a total disaster. Migrations are failing everywhere.

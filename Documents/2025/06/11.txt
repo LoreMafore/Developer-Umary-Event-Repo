@@ -1,0 +1,1 @@
+TensorFlow GPU support. I finally got CUDA working on my Linux box. The model trains 10x faster now. I spent the time I saved watching YouTube.

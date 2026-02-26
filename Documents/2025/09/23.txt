@@ -1,0 +1,1 @@
+Numpy and np.linalg.solve. I’m solving linear equations. I got a 'Singular Matrix' error. It means I have redundant info. Just like my comments.

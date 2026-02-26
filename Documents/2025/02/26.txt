@@ -1,0 +1,1 @@
+requests streaming. i'm trying to download a huge video. it works but if the wifi blips the whole thing fails. i need to learn how to resume a download.

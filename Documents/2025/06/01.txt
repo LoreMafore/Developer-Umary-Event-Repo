@@ -1,0 +1,1 @@
+June starts with FFmpeg bitrates. I’m trying to make a video small enough to send on Discord. I over-compressed it and now it looks like a Minecraft painting.

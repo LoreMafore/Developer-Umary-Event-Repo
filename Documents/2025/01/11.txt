@@ -1,0 +1,1 @@
+tried to do some matrix math in Numpy. i got a 'broadcast error' and i don't know what that means. i ended up just using a for loop which i know is slow but at least i understand it.

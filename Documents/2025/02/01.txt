@@ -1,0 +1,1 @@
+start of feb. worked with Redis to set an expiration on a key. it's cool that the data just disappears. i used it for a 'temporary' password thing that doesn't actually work yet.

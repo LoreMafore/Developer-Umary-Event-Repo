@@ -1,0 +1,1 @@
+Numpy memory views. I’m trying to be "efficient" by using view() instead of copy(). I edited the view and it changed the original array. I am shocked.

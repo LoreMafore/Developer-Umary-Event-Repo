@@ -1,0 +1,1 @@
+Postgres and 'Triggers'. I made a trigger that automatically calculates a 'Total Price' when an item is added to an order. It’s like the database is doing my work for me.

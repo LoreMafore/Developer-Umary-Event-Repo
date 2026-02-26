@@ -1,0 +1,1 @@
+Blender materials via python. i tried to change the color of a mesh but it stayed gray. i think i'm editing the data but not updating the viewport.

@@ -1,0 +1,1 @@
+Django signals (again). I’m trying to send an email when a user signs up. The email sends, but it happens inside the request-response cycle so the website hangs for 5 seconds. I need a worker.

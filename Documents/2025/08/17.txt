@@ -1,0 +1,1 @@
+LLVM and 'Alias Analysis'. I’m trying to understand if two pointers point to the same memory. It’s like a detective game but with more segment faults.

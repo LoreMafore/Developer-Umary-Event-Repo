@@ -1,0 +1,1 @@
+requests and 'JSON' payloads. I was sending data using the data= parameter instead of json=. The server was expecting JSON and I was sending form-encoded data. 400 Bad Request. Classic.

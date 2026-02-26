@@ -1,0 +1,1 @@
+requests and 'JSON'. I learned that if you use r.json(), it converts the response into a dictionary. I was trying to use regex to find the price in a string. I feel like a caveman.

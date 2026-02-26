@@ -1,0 +1,1 @@
+Postgres and 'Triggers'. I made a trigger that logs every change to a 'Audit' table. It’s cool, but it doubled the size of my database in one day.

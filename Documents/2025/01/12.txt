@@ -1,0 +1,1 @@
+requests again. i tried to download a large file and my script just hung there. i didn't realize i needed to stream the response. my linux laptop ran out of disk space too lol.

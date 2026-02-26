@@ -1,0 +1,1 @@
+FFmpeg m3u8 playlists. I’m trying to make a streaming set of files. It created a hundred small .ts files. My folder is a mess now.

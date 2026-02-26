@@ -1,0 +1,1 @@
+FFmpeg and 'HLS' streaming. I’m trying to chop a video into 10-second segments for a web player. It created 500 files. I should have put them in a subfolder. My home directory is a mess.

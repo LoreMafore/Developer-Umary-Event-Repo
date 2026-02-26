@@ -1,0 +1,1 @@
+Redis sets. I used SADD to keep track of unique visitors to my site. It’s much faster than doing a SELECT DISTINCT in Postgres, but the data disappears if I don't save.

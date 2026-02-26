@@ -1,0 +1,1 @@
+requests status codes. I learned that r.raise_for_status() is much better than checking if r.status_code == 200 every single time.

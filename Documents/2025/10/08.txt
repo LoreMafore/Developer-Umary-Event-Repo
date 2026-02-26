@@ -1,0 +1,1 @@
+Blender and 'Vertex Colors'. I’m trying to paint a mesh using Python. I’m accidentally painting the inside of the mesh instead of the outside.

@@ -1,0 +1,1 @@
+Postgres and 'Views'. I made a view for 'Active Subscribers'. It’s nice because I can treat it like a table, but it’s always up to date.

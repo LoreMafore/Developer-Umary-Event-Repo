@@ -1,0 +1,1 @@
+Django and select_related. I learned that my page was slow because it was doing 100 database queries instead of one. I added one line of code and the page load time went from 2 seconds to 50ms.

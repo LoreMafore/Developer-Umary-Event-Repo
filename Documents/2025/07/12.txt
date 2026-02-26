@@ -1,0 +1,1 @@
+LLVM and 'Target Data Layout'. I’m trying to understand why my code runs on my laptop but crashes on my old Raspberry Pi. Something about 'little-endian' vs 'big-endian'. I'm way out of my depth.

@@ -1,0 +1,1 @@
+Numpy and np.vectorize. I’m trying to make my custom Python function run fast on an array. I learned it doesn't actually make it faster; it just makes the code look cleaner. Disappointing.

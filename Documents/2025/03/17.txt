@@ -1,0 +1,1 @@
+Redis expiration. I made a "self-destructing" message app. It works, but if I refresh the page too fast the key is already gone and the app crashes.

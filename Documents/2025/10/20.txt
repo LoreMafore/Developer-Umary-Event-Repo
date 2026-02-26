@@ -1,0 +1,1 @@
+Numpy and np.isclose. I learned you should never compare floats with ==. 0.1 + 0.2 == 0.3 is False. My whole life has been a lie.

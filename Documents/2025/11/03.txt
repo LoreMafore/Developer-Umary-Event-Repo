@@ -1,0 +1,1 @@
+Checked the rectory’s router logs. They use a standard WPA2 password. Pathetic.

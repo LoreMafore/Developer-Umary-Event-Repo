@@ -1,0 +1,1 @@
+requests and 'Session' objects. I learned that using a session makes subsequent requests faster because it reuses the connection. I’m finally starting to care about performance.

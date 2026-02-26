@@ -1,0 +1,1 @@
+Numpy and np.clip. I’m using it to make sure my data stays within a certain range. It’s so much better than writing a bunch of if x > max: x = max statements.

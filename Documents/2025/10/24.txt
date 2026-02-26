@@ -1,0 +1,1 @@
+FFmpeg and 'Stream Mapping'. I’m trying to keep the English audio and delete the others. I deleted the video and kept all the audio. I did the exact opposite of what I wanted.

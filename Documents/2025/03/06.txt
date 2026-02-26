@@ -1,0 +1,1 @@
+requests and headers. I was trying to scrape a site but kept getting blocked. I realized I need to pretend I’m a real browser by sending a User-Agent string.

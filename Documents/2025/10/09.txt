@@ -1,0 +1,1 @@
+LLVM and 'Instruction Builder'. I’m trying to generate code for a simple loop. I forgot the branch instruction and made an infinite loop in assembly. My CPU fan is screaming.

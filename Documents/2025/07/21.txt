@@ -1,0 +1,1 @@
+LLVM and 'ModulePass'. I’m trying to write a pass that counts the number of functions in a file. It keeps counting the built-in functions too. I need to filter for 'isDeclaration()'.

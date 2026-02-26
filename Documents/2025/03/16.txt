@@ -1,0 +1,1 @@
+Postgres JSONB columns. I’m storing random data in a JSON column because I’m too lazy to make a proper schema. I know I’ll regret this later.

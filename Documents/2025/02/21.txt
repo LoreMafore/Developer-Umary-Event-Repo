@@ -1,0 +1,1 @@
+TensorFlow layers. i'm trying to add a dropout layer to stop overfitting. it's weird that 'forgetting' data makes the model better. i wish my brain worked like that.

@@ -1,0 +1,1 @@
+Django forms are annoying. I spent two hours trying to get a dropdown menu to show the right choices. I ended up having to restart the server three times because of caching.

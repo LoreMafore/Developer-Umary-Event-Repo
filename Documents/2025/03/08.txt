@@ -1,0 +1,1 @@
+Redis persistence. I finally figured out the difference between RDB and AOF snapshots. My Redis data actually survived a reboot today. Small wins!

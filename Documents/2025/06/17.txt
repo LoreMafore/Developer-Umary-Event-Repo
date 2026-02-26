@@ -1,0 +1,1 @@
+Postgres aggregate functions. I’m using string_agg to combine names into a list. It’s so much better than doing it in Python after fetching the data.

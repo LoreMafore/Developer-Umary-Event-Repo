@@ -1,0 +1,1 @@
+Redis transactions. I learned about MULTI and EXEC. It's like Postgres but faster and less safe. I think I'm starting to like Redis more.

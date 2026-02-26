@@ -1,0 +1,1 @@
+FFmpeg drawing text. I’m trying to put a timestamp on a video. The font path on Linux is so long and if I miss one slash it fails.

@@ -1,0 +1,1 @@
+Blender constraints. I'm trying to make a camera follow an object using Python. The camera keeps pointing the wrong way. I think I need to use 'Track To' but the API names are different.

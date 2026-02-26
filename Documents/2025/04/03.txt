@@ -1,0 +1,1 @@
+Postgres full text search. I’m trying to make a search bar for my blog. The @@ operator looks like an emoji but it’s actually really powerful.

@@ -1,0 +1,1 @@
+TensorFlow layers. I’m trying to understand the difference between 'Flatten' and 'Reshape'. I think I’m just moving numbers around in a circle at this point.

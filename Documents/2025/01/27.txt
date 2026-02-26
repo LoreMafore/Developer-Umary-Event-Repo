@@ -1,0 +1,1 @@
+LLVM build times are insane. i spent half the day just waiting for it to compile on my linux box. i should have bought more ram.

@@ -1,0 +1,1 @@
+Blender scripting. I’m trying to use the noise module to create "organic" movements for a character. My character currently looks like it’s having a glitchy seizure. Back to the tutorials.

@@ -1,0 +1,1 @@
+TensorFlow and 'TFLite'. I’m trying to make my model run on a phone. It’s so much slower than I expected. I think I need to prune the model.

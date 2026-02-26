@@ -1,0 +1,1 @@
+Postgres sequences. I accidentally manually inserted an ID and now the auto-increment is out of sync. Every new insert fails. I have to "reset" the sequence like a total amateur.

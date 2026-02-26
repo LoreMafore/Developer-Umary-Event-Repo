@@ -1,0 +1,1 @@
+requests and proxies. I’m trying to rotate proxies so I don't get blocked. Most of the free proxies are dead. I get what I pay for.

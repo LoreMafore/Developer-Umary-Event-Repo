@@ -1,0 +1,1 @@
+LLVM and the opt tool. I tried to write a script to run a series of optimizations on a bitcode file. I accidentally ran the same optimization ten times and it made the file bigger? I don't understand how that’s possible.

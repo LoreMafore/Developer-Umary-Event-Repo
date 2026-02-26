@@ -1,0 +1,1 @@
+FFmpeg complex filters. I'm trying to overlay a logo on a video. The overlay filter requires weird coordinates. I put the logo in the middle by accident.

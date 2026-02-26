@@ -1,0 +1,1 @@
+requests and binary data. I’m trying to download images. I was using .text instead of .content and all my images were corrupted. Encode/decode is a nightmare.

@@ -1,0 +1,1 @@
+LLVM instruction set. I’m trying to count how many 'add' instructions are in a piece of code. I keep counting the 'fadd' ones too. Floating point math is always there to ruin my day.

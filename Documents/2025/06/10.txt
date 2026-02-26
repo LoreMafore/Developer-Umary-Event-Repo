@@ -1,0 +1,1 @@
+FFmpeg format conversion. I’m converting .wav to .mp3. I forgot to set the sample rate and now I sound like a chipmunk.

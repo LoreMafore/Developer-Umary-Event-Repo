@@ -1,0 +1,1 @@
+Numpy dot vs *. I keep using * for matrix multiplication and getting weird results. It’s element-wise! I need to use @ or np.dot. I hate this.

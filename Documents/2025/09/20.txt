@@ -1,0 +1,1 @@
+Blender and 'Nodes'. I’m trying to use Geometry Nodes via Python. The API is totally different from the regular mesh API. My brain is melting.

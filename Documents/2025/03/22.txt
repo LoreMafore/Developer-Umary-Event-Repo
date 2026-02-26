@@ -1,0 +1,1 @@
+Django generic views. They are supposed to save time, but I spent more time trying to figure out how to override the get_queryset method than it would have taken to just write the view.

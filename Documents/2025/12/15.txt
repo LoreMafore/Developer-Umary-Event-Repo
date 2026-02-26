@@ -1,0 +1,1 @@
+I’m trying to optimize the Python script for the jammer. It needs to be instant.

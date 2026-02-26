@@ -1,0 +1,1 @@
+Redis and 'LPOP'. I’m using a list as a queue. I forgot to check if the list was empty before popping, and my script crashed with a 'NoneType' error.

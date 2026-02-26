@@ -1,0 +1,1 @@
+FFmpeg audio. i tried to extract audio from a video but the output file was empty. i forgot the -map flag or something. command line is a struggle.

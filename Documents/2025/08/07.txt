@@ -1,0 +1,1 @@
+Blender and 'Keyframe Animation'. I’m trying to make a bouncing ball script. I keep forgetting to set the 'interpolation' to 'Bezier', so the ball looks like it’s hitting a brick wall in mid-air.

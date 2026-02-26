@@ -1,0 +1,1 @@
+spent the day on Postgres. i finally got a join to work! it took me forever to realize i was joining on the wrong column. my data is all messy though.

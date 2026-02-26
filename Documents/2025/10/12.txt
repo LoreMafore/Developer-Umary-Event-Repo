@@ -1,0 +1,1 @@
+requests and 'Binary'. I’m trying to download a PDF. I opened the file in 'w' mode instead of 'wb' (write binary). The PDF is just a bunch of gibberish.

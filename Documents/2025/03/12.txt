@@ -1,0 +1,1 @@
+LLVM bitcode again. I tried to use opt to run some optimizations on my code. It made the file smaller but now it just prints gibberish.

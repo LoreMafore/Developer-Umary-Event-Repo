@@ -1,0 +1,1 @@
+TensorFlow and 'Model Checkpoints'. I’m saving the model every 5 epochs. I ran out of disk space because each save is 200MB. I need to only save the 'best' one.

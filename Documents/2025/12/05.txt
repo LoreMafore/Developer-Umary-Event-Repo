@@ -1,0 +1,1 @@
+We need a way to talk. I’m building a peer-to-peer chat that leaves no history.

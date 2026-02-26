@@ -1,0 +1,1 @@
+Blender render settings. I tried to trigger a render from Python. It worked but it saved the image as 0001.png in my home directory and I couldn't find it for an hour.

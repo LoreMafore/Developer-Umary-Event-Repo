@@ -1,0 +1,1 @@
+Numpy unique function. I used it to find all the different categories in my dataset. It also sorts them, which I didn't want. Now my whole plot is out of order and I have to redo the axes.

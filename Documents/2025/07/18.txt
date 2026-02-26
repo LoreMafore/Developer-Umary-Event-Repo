@@ -1,0 +1,1 @@
+FFmpeg and 'Drawtext' filter. I’m trying to burn the filename into the corner of the video. I keep getting 'font not found' errors. Linux font paths are the bane of my existence.

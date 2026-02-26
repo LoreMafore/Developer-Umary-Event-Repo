@@ -1,0 +1,1 @@
+Blender and 'Cycles' vs 'Eevee'. I rendered a frame in Cycles and it took 10 minutes. Eevee took 2 seconds. The light isn't as pretty, but my patience is thin today.

@@ -1,0 +1,1 @@
+Numpy file mapping. I used memmap to load a file that’s bigger than my RAM. It actually worked! Linux swap space is doing a lot of heavy lifting today.

@@ -1,0 +1,1 @@
+Django templates. i'm trying to use a loop in the html but it's not showing anything. turned out i wasn't passing the context correctly from the view.

@@ -1,0 +1,1 @@
+requests and 'Too Many Redirects'. I hit a site that just loops back to itself. I learned that you can set max_redirects so your script doesn't just run forever and melt your CPU.

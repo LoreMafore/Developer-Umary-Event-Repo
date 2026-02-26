@@ -1,0 +1,1 @@
+Django and 'F expressions'. I learned how to update a database field based on its current value (like price = price + 1) without loading it into Python. Efficient!

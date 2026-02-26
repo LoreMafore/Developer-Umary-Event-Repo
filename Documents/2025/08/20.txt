@@ -1,0 +1,1 @@
+requests and 'Timeouts'. I set a timeout of 0.001 seconds just to see what would happen. It timed out. I don't know what I expected.

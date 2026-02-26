@@ -1,0 +1,1 @@
+FFmpeg metadata. I’m trying to strip the GPS data from my phone videos for privacy. I found the -map_metadata -1 flag but it also stripped the rotation info so now the video is sideways.

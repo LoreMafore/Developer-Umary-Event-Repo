@@ -1,0 +1,1 @@
+Numpy einsum. Someone told me this is the ultimate way to do math. I looked at the syntax and I think I’ll just stick to dot() for now.

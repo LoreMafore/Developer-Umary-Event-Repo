@@ -1,0 +1,1 @@
+Django testing. I’m trying to write unit tests. I spent all day writing a test that passed, only to realize I wasn't actually asserting anything.

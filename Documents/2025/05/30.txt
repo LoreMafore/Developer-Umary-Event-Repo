@@ -1,0 +1,1 @@
+Postgres indexes. I added a GIN index for my search. It made the database 2GB larger but the search is finally fast. Trade-offs, I guess.

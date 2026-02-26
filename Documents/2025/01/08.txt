@@ -1,0 +1,1 @@
+looking at LLVM code is making me want to quit. it's just so much c++ and pointers. i tried to build a small tool and got 500 lines of errors.

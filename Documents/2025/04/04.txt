@@ -1,0 +1,1 @@
+Redis as a message broker. I’m trying to use it with Celery for background tasks. It’s a lot of moving parts and my Linux system is starting to feel slow with all these services running.

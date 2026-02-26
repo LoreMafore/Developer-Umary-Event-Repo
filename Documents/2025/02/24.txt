@@ -1,0 +1,1 @@
+Django custom commands. i made a python script i can run with manage.py. it helps me clear the database quickly which is good because i break it a lot.

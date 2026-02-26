@@ -1,0 +1,1 @@
+Django and 'Class-Based Views'. I’m trying to use UpdateView. It’s nice that it handles the form for me, but I have no idea where the actual logic is happening. It’s too "magical."

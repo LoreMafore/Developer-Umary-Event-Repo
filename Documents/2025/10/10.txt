@@ -1,0 +1,1 @@
+Django and 'Custom Filters'. I made a template filter that turns text into "Leet Speak." It’s useless but it helped me understand how the template engine works.

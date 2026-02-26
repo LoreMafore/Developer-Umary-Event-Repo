@@ -1,0 +1,1 @@
+Redis publish/subscribe. I’m trying to make a real-time notification system. It works until I refresh the page, then the message is gone forever.

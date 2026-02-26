@@ -1,0 +1,1 @@
+requests and pagination. I'm trying to get all pages from an API. I made a while loop that didn't have an exit condition. I nearly got my IP banned for spamming the server.

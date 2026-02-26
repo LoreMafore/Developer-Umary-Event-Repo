@@ -1,0 +1,1 @@
+FFmpeg and 'Overlay'. I tried to put a watermark on my video. I put it at (0,0) and it's covering the most important part of the screen. I need to learn how to use the 'main_w' and 'main_h' variables.

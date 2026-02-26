@@ -1,0 +1,1 @@
+TensorFlow and 'Dropout'. I added a dropout layer to stop my model from overfitting. Now the training accuracy is lower than the test accuracy. I don't know if that's good or bad.

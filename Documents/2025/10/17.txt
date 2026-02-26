@@ -1,0 +1,1 @@
+Blender and 'Materials'. I’m trying to assign different materials to different faces. My script keeps assigning the material to the whole object. I need to be in 'Edit Mode' (maybe?).

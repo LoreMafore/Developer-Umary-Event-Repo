@@ -1,0 +1,1 @@
+Redis lists. i'm using LPUSH and RPOP to make a queue. i keep getting the order wrong so my queue is acting like a stack. i'm a bad dev.

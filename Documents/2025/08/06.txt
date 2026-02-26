@@ -1,0 +1,1 @@
+TensorFlow and 'Custom Layers'. I’m trying to write a layer that just squares the input. It’s a bit pointless, but I finally understand how the data flows through the model.

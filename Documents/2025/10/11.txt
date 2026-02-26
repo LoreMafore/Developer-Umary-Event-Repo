@@ -1,0 +1,1 @@
+Numpy and np.nan_to_num. I’m cleaning my data. I replaced all the 'NaNs' with zero. Now my averages are all messed up because zeros are real numbers. I should have used the median.

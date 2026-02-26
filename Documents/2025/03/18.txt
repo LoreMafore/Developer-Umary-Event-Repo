@@ -1,0 +1,1 @@
+FFmpeg stream copying. I learned that -c copy is way faster than re-encoding. I moved a 2GB file to a different container in like 2 seconds. I felt like a pro for a minute.

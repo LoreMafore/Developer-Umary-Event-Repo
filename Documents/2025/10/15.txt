@@ -1,0 +1,1 @@
+FFmpeg and 'Filter_complex'. I’m trying to put four videos in a grid. The math for the coordinates is driving me crazy. x=w0, y=h0... I need a whiteboard.

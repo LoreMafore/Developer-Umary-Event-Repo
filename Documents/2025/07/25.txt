@@ -1,0 +1,1 @@
+Postgres and 'Vacuum'. I learned that Postgres doesn't actually delete data immediately; it just marks it as 'dead'. I had to run VACUUM to get my disk space back.

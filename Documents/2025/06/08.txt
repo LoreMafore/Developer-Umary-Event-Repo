@@ -1,0 +1,1 @@
+Postgres data types. I used VARCHAR(255) for everything. Someone told me I should just use TEXT in Postgres. I feel like I've been lied to my whole life.

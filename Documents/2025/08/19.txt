@@ -1,0 +1,1 @@
+Numpy and np.random.seed. I finally realized why my results were different every time. I was setting the seed inside a loop. I am not a smart person.

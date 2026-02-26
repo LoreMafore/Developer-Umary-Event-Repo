@@ -1,0 +1,1 @@
+Redis as a lock. I’m trying to make sure two scripts don't edit the same file at once. I’m using SET NX. It works until the script crashes and the lock stays there forever.

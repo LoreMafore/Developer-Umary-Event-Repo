@@ -1,0 +1,1 @@
+Numpy and np.where. I used it to replace all 'NaN' values with the mean of the array. It worked, but I forgot that the mean might also be 'NaN' if there are too many of them.

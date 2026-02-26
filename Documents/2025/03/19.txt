@@ -1,0 +1,1 @@
+TensorFlow and Keras. I'm trying to use the Sequential API. It's much easier than the functional one, but I still don't know why I need so many layers.

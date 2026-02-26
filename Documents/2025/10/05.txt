@@ -1,0 +1,1 @@
+Redis and 'SCAN'. I learned that KEYS * is a sin in production. I used SCAN and it took way more code, but at least I’m not a "database killer."

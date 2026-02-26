@@ -1,0 +1,1 @@
+Blender material nodes. I’m trying to create a procedural texture using Python. I can't figure out how to "link" the nodes together. My cube just stays hot pink.

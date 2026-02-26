@@ -1,0 +1,1 @@
+Numpy random numbers. i tried to seed the generator so i get the same results but it's still different every time. i'm definitely doing something wrong.

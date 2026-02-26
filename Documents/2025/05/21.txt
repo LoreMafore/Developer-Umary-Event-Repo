@@ -1,0 +1,1 @@
+Postgres window functions. I tried to use RANK(). It’s like magic but the syntax is so weird. OVER (PARTITION BY ...)—who came up with this?

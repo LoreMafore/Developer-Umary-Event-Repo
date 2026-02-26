@@ -1,0 +1,1 @@
+Redis and 'Persistence'. I turned on AOF (Append Only File). Now every change is written to disk. My database is slow, but at least it’s safe.

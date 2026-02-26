@@ -1,0 +1,1 @@
+Blender vertex groups. i'm trying to select vertices by their index in python. the indices keep changing when i modify the mesh and it's breaking everything.

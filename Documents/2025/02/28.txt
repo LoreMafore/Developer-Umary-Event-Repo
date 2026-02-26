@@ -1,0 +1,1 @@
+Redis sorted sets. i'm trying to make a leaderboard for a game. i don't really get how the scores work with the rankings but it's sorting them at least.

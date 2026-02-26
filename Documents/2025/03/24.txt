@@ -1,0 +1,1 @@
+requests retry logic. I'm using the urllib3 Retry object. It’s complicated to set up but it’s cool to see the script actually try again when the server is busy.

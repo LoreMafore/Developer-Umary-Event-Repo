@@ -1,0 +1,1 @@
+requests and 'Auth'. I learned how to use API keys in the header. I spent way too long trying to put it in the URL parameters. Most APIs don't like that for security.

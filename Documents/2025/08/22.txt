@@ -1,0 +1,1 @@
+Redis and 'Transactions'. I learned about WATCH. It’s like a 'pessimistic lock' for people who don't want to use real locks. It makes me feel safer.

@@ -1,0 +1,1 @@
+October starts with Django Rest Framework. I learned how to use 'Parsers'. I can now send XML to my API if I really want to. I don't know why I would, but I can.

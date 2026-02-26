@@ -1,0 +1,1 @@
+Django signals. I used a signal to delete a file when the database record is deleted. I accidentally deleted my whole 'uploads' folder. I am a danger to myself.

@@ -1,0 +1,1 @@
+Numpy broadcasting rules. I finally printed out a cheat sheet and taped it to my monitor. I still got a ValueError today, but at least I know which line caused it.

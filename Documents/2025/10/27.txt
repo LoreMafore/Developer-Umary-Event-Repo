@@ -1,0 +1,1 @@
+LLVM and 'C API'. I’m trying to use the C wrapper because C++ is too hard. It’s even more verbose. I’m typing 50 characters for every one line of logic.

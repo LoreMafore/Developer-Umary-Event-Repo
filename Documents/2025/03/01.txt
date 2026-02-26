@@ -1,0 +1,1 @@
+Started March by trying to use TensorFlow to recognize my handwriting. The model says my '2' is a '7'. I think my training data is just as messy as my actual handwriting.

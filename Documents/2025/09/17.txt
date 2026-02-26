@@ -1,0 +1,1 @@
+Redis and 'HSET'. I’m storing user settings in a hash. It’s much cleaner than a massive JSON string. I feel like my data structures are actually starting to make sense.
