@@ -4,4 +4,4 @@ This repository contains the **Raspberry Pi** directory used for the **Mystery E
 
 
 The repository for the front end and backend website and event infrastructure can be found here:  
-[https://github.com/LoreMafore/Developer-Umary-Event-Repo](https://github.com/LoreMafore/Mystery)
+[https://github.com/LoreMafore/Developer-Umary-Event-Repo](https://github.com/LoreMafore/Mystery-Event)
